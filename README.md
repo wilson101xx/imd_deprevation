@@ -2,7 +2,10 @@
 
 ### Description
 
-This streamlit application allows users to input a UK postcode and retrieve deprivation statistics for that area based on the indicies of Multiple deprivation (IMD) 2019 data. https://imd-by-postcode.opendatacommunities.org/imd/2019
+This streamlit application allows users to input a UK postcode and retrieve deprivation statistics for that area based on the indicies of Multiple deprivation (IMD) 2019 data. 
+- https://imd-by-postcode.opendatacommunities.org/imd/2019
+- https://communitiesopendata-communities.hub.arcgis.com/datasets/45e05901e0a14cca9ab180975e2e8194_0/api
+
 
 - Look up deprivation statistics by postcode
 - View detailed descriptions of each statistic to understand their meaning
